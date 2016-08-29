@@ -11,15 +11,16 @@ Needed:
 
 Quick start:
 1. install pip
-for linux(ubuntu) : sudo apt-get install pip
-for windows : download pip from https://pypi.python.org/pypi/pip/
+	for linux(ubuntu) : sudo apt-get install pip
+	for windows : download pip from https://pypi.python.org/pypi/pip/
 
 2.
-> pip install xlrd
-> pip install requests
-> .....
+	> pip install xlrd
+	> pip install requests
+	> .....
 
-3. python main.py [student's ID section]
-	e.g python main.py 2014212055 2014212066
-	and the result will saved in 2014212055-2014212066.xls
+3. run the program
+	python main.py [student's ID section]
+	    e.g python main.py 2014212055 2014212066
+	        and the result will saved in 2014212055-2014212066.xls
 	
